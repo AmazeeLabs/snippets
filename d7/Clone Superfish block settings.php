@@ -2,6 +2,8 @@
 
 // Set correct arguments!
 clone_superfish_settings('BLOCK_DESCRIPTION', 'MENU_MACHINE_NAME', FROM_ID, TO_ID);
+// Example:
+// clone_superfish_settings('Main Menu LU', 'menu-main-menu-lu', 2, 8);
 
 // Do not change below this line.
 
