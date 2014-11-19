@@ -1,6 +1,9 @@
 <?php
 
+// Set correct arguments!
 clone_superfish_settings('BLOCK_DESCRIPTION', 'MENU_MACHINE_NAME', FROM_ID, TO_ID);
+
+// Do not change below this line.
 
 /**
  * Sets superfish block description/menu and clones other settings.
