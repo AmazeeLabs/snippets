@@ -1,7 +1,6 @@
 <?php
 
-// Configure superfish settings. See function doc below for details.
-clone_superfish_settings('CHANGEME', 'CHANGEME', 0, 0);
+clone_superfish_settings('BLOCK_DESCRIPTION', 'MENU_MACHINE_NAME', FROM_ID, TO_ID);
 
 /**
  * Sets superfish block description/menu and clones other settings.
