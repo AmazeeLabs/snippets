@@ -1,2 +1,1 @@
-drupal_snippets
-===============
+Some useful snippets.
