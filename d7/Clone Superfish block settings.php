@@ -13,9 +13,9 @@ clone_superfish_settings('CHANGEME', 'CHANGEME', 0, 0);
  * clone_superfish_settings('Main Menu AT', 'menu-main-menu-at', 3, 7);
  *
  * @param string $block_description
- *   Block description for admin purposes. Example: "Main Menu (AT)".
+ *   Block description for admin purposes. Example: "Main Menu AT".
  * @param string $menu_id
- *   Menu machine name. Example: "menu-main-menu-de". Actual value can be found
+ *   Menu machine name. Example: "menu-main-menu-at". Actual value can be found
  *   in the menu URL: admin/structure/menu/manage/{menu-machine-name}
  * @param int $from_id
  *   The ID of a superfish block from which other settings should be cloned. The
