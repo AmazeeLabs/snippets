@@ -13,9 +13,6 @@ clone_superfish_settings('BLOCK_DESCRIPTION', 'MENU_MACHINE_NAME', FROM_ID, TO_I
  * Please don't use this function if you don't know why you need it :)
  * At least read this first: http://confluence.amazeelabs.com/x/iIG9AQ
  *
- * Example:
- * clone_superfish_settings('Main Menu AT', 'menu-main-menu-at', 3, 7);
- *
  * @param string $block_description
  *   Block description for admin purposes. Example: "Main Menu AT".
  * @param string $menu_id
