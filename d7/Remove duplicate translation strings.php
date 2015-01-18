@@ -1,3 +1,4 @@
+<?php
 
 // Should only be used with the language_fallback module 7.x-2.x version.
 DuplicateStringsRemover::go();
