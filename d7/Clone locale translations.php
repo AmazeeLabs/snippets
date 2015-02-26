@@ -1,4 +1,4 @@
-<?php
+//<?php
 
 // Set correct arguments!
 // Be sure to use language codes, not the path prefixes from URL! Check at admin/config/regional/language !
